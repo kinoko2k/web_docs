@@ -2,34 +2,32 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Kinoko_2Kの自己紹介
 
-Let's discover **Docusaurus in less than 5 minutes**.
+|  |  |  |  |
+| :-: | - | - | - |
+| アイコン | ![](https://pbs.twimg.com/profile_images/1589908386728009733/Cqt64hb1_400x400.jpg) | 名前 | Kinoko_2K |
+| 年齢 | 10~20 | 趣味 | ピアノ |
+| 得意なもの | 文書記述、議事録作成 | 特異なもの | 親指の関節が異様に鳴る |
+| 好きなもの | 🍄 | 書ける言語 | JavaScript、Python |
+| 特にやっているもの | マイクラサーバー運営の管理 |  |  |
 
-## Getting Started
+|  |  |
+| - | - |
+| SNS類 |  |
+| Twitter | [X（@kinoko1216）](https://twitter.com/kinoko1216) |
+| Discord | [Discord（@kinoko1216）](https://discord.com/users/925245386568896564) |
+| GitHub | [GitHub（@kinoko2k）](https://github.com/kinoko2k/) |
+| MCID | [NameMC（Kinoko_2K）](https://ja.namemc.com/profile/Kinoko_2K) |
+| Note | [Note（@kinoko1216）](https://note.com/kinoko1216) |
 
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+|  |  |
+| - | - |
+| 技術・運営・所属グループ |  |
+| KinokoNetWork（Discord, Minecraft, Tech, Owner） | Discord管理者・MC管理者 |
+| KinokoTeams（Discord, Tech, Owner） | オーナー |
+| kinokonoyama（BedWarsGuild, Owner） | ギルド管理者 |
+| Minecraft鯖運営-処罰共有場-mcpl（Discord, Tech） | Discord管理者 |
+| ArukaNetWork（Minecraft, Docs） | MC運営 |
+| mesiokaServer（Discord, Minecraft, OP） | Discord管理者・MC管理者 |
+| KireaServer（Discord, Admin） | Discord運営 |
