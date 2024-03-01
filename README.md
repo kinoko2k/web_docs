@@ -1,6 +1,5 @@
 # Website
-
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+自分のまとめたい情報とかをまとめた自分のWiki
 
 ### Installation
 
