@@ -17,7 +17,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            面白そうな雑記帳を作りたい野望が詰まってる
+            面白そうな雑記帳を作りたいものが詰まってる
           </Link>
         </div>
       </div>
