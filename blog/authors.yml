@@ -1,17 +1,6 @@
-endi:
-  name: Endilie Yacop Sucipto
+kinoko1216:
+  name: Kinoko_2K
   title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+  url: https://github.com/kinoko2k
+  image_url: https://github.com/kinoko2k.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
