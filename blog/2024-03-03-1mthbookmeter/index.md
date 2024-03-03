@@ -1,5 +1,5 @@
 ---
-slug: 3mth_bookmeter
+slug: 1mth_bookmeter
 title: 1月の読書メーター
 authors: [kinoko1216]
 tags: [読書メーター]
