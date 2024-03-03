@@ -1,4 +1,5 @@
 ---
+sidebar_label: 自己紹介
 sidebar_position: 1
 ---
 
@@ -6,7 +7,7 @@ sidebar_position: 1
 
 |  |  |  |  |
 | :-: | - | - | - |
-| アイコン | ![](https://pbs.twimg.com/profile_images/1589908386728009733/Cqt64hb1_400x400.jpg) | 名前 | Kinoko_2K |
+| アイコン | ![](https://s.namemc.com/2d/skin/face.png?id=1af5bfc0b703c50c&scale=4) | 名前 | Kinoko_2K |
 | 年齢 | 10~20 | 趣味 | ピアノ |
 | 得意なもの | 文書記述、議事録作成 | 特異なもの | 親指の関節が異様に鳴る |
 | 好きなもの | 🍄 | 書ける言語 | JavaScript、Python |

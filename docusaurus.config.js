@@ -4,15 +4,24 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 // With JSDoc @type annotations, IDEs can provide config autocompletion
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 (module.exports = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Kinoko_2Kの雑記帳',
+  tagline: 'kinoko1216',
+  url: 'https://kinokoserver.github.io',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: '@kinoko1216', // Usually your GitHub org/user name.
+  projectName: 'kinoko2k.github.io', // Usually your repo name.
+  trailingSlash: false,
+
+  // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'ja',
+    locales: ['ja'],
+  },
 
   presets: [
     [
@@ -22,13 +31,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
+          editUrl: 'https://github.com/kinoko2k/kinoko2k.github.io/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/main/website/blog/',
+            'https://github.com/kinoko2k/kinoko2k.github.io/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -41,7 +50,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'my雑記帳',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
@@ -55,7 +64,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kinoko2k/kinoko2k.github.io',
             label: 'GitHub',
             position: 'right',
           },
@@ -74,19 +83,23 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
             ],
           },
           {
-            title: 'Community',
+            title: 'SNS',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Twitter',
+                href: 'https://twitter.com/kinoko1216',
               },
               {
                 label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                href: 'https://discord.com/users/925245386568896564',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Github',
+                href: 'https://github.com/kinoko2k/',
+              },
+              {
+                label: 'Note',
+                href: 'https://note.com/kinoko1216',
               },
             ],
           },
@@ -99,12 +112,12 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/kinoko2k/kinoko2k.github.io',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Kinoko_2K Notebook`,
       },
       prism: {
         theme: lightCodeTheme,
