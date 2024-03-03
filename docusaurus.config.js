@@ -47,13 +47,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
   ],
 
   themeConfig:
-    /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
+    /** @type {import('@docusaurus/preset-classic').ThemeConfig} img/logo.svg */
     ({
       navbar: {
         title: 'my雑記帳',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/favicon.ico',
         },
         items: [
           {
