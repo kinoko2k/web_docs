@@ -12,7 +12,7 @@ sidebar_position: 1
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Lemon <a href="https://t.co/EvQMopBezL">pic.twitter.com/EvQMopBezL</a></p>&mdash; Kinoko_2K (@kinoko1216) <a href="https://twitter.com/kinoko1216/status/1727705176990261559?ref_src=twsrc%5Etfw">November 23, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-```メモ
+```メモ食べ物
 import Food from '/img/food.png';
 
 <img src={Food} alt="Sugakiya" style={{width: 400}} />
