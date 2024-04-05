@@ -14,4 +14,5 @@ sidebar_position: 1
 | 2023/02/24 | 2023_crafter | Griefing（堂々と目の前でチートを使うことを発言したため） | https://twitter.com/kinoko1216/status/1629021939716206593 |
 | 2023/04/19 | KOO1014 | Xray常習犯 | https://twitter.com/kinoko1216/status/1648603993294376961 |
 | 2023/09/18 | shocchi930 | ddos攻撃、他鯖への荒らし | https://twitter.com/kinoko1216/status/1703744570788610100 |
+| 2023/04/02 | iruka_111 | 他鯖への荒らし | （謎擁護の声からツイート削除済み） |
 
