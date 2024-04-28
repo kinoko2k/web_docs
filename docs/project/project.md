@@ -38,5 +38,6 @@ sidebar_position: 1
 | 名前 | 概要 | 仕事 | その他 |
 | :- | - | - | - |
 | Discord-SimpleMusicBot | データベース不要のDiscord向けの音楽ボット | 細かい記述 | https://github.com/mtripg6666tdr/Discord-SimpleMusicBot |
-| BedWars | Simple BedWars minigame plugin | 日本語の翻訳(v2, v3) | https://github.com/ScreamingSandals/BedWars |
+| BedWars | Simple BedWars minigame plugin | [日本語の翻訳(v2, v3)](https://www.spigotmc.org/resources/screaming-bedwars-1-8-8-1-20-4.63714/update?update=493428) | https://github.com/ScreamingSandals/BedWars |
+| ChatEX | ChatManager | [日本語の翻訳](https://github.com/TheJeterLP/ChatEx/pull/146) | https://github.com/TheJeterLP/ChatEx |
 
